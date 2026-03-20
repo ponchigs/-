@@ -5,7 +5,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, CallbackQueryHandler, ContextTypes, MessageHandler, filters
 
 # ===== НАСТРОЙКИ =====
-TOKEN = "8660452732:AAHVYxr_5JsJXceGOxd3vvC_y_R6Wlx5ZfY"  # Ваш токен
+TOKEN = "МЕСТО ДЛЯ ТОКЕНА"  # Ваш токен
 DATA_FILE = "santa_data.json"
 
 # ===== ЗАГРУЗКА И СОХРАНЕНИЕ ДАННЫХ =====
